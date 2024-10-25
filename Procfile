@@ -1,5 +1,1 @@
-web: n8n 
-N8N_BASIC_AUTH_ACTIVE=true
-N8N_BASIC_AUTH_USER=Larissindo
-N8N_BASIC_AUTH_PASSWORD=teste%$#@!
-N8N_PORT=80
+web: n8n start
