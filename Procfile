@@ -1,1 +1,1 @@
-web: rm -rf /app/.cache/node/corepack && n8n start
+web: n8n start
